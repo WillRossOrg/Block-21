@@ -1,0 +1,25 @@
+.party-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .party-item {
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .party-info {
+    margin: 5px 0;
+  }
+  
+  .delete-button {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
